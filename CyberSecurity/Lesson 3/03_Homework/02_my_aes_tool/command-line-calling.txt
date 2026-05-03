@@ -1,0 +1,1 @@
+./my_aes_tool dec output.txt restored.txt 0123456789012345

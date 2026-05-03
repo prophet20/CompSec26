@@ -1,0 +1,10 @@
+admin
+password
+qwerty
+football
+sunflower
+cat
+batman
+golf
+car
+pizza
